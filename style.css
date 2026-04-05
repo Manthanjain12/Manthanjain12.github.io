@@ -613,3 +613,14 @@ h1 {
     transform: none;
   }
 }
+
+.logo{
+  margin-top: 20px;
+  margin-bottom: 0%;
+}
+
+.github-logo{
+  width: 40px;
+  height: 40px;
+  margin-top: 20px;
+}
