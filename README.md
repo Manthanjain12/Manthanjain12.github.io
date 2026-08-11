@@ -1,2 +1,2 @@
 # Manthanjain12.github.io
-This My portfolio which I made by vibe coding and my first project also.
+This My portfolio you can watch my profile here.
